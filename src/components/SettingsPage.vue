@@ -1,5 +1,5 @@
 <template>
-<h1> <button class="btn" type="button" style="background-color: gray;  margin-left:65%" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
+<h1> <button class="btn" type="button" style="color: white; background-color: gray;  margin-left:65%" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
 <font-awesome-icon icon="fa-solid fa-bars" /></button></h1>
 <div class="offcanvas offcanvas-end" tabindex="-1" data-bs-backdrop="false" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
   <div class="offcanvas-header">
